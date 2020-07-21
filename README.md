@@ -1,5 +1,5 @@
 # Basic Image Processing techniques applied to video
-This video was created for the Master of Artificial Intelligence, KU Leuven. It is related to a school project of the Master Course entitled: Computer Vision.
+This project was created for the Master of Artificial Intelligence, KU Leuven. It is related to a school project of the Master Course entitled: Computer Vision.
 It contains basic image processing techniques applied to an one minute video, frame by frame, using Python code and the OpenCV library. 
 
 ## Overview
